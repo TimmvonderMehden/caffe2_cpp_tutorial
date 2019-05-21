@@ -2,6 +2,7 @@
 
 #include <cmath>
 #include <map>
+#include <algorithm>
 
 namespace cvplot {
 

@@ -2,6 +2,7 @@
 #define UTIL_PROGRESS_H
 
 #include <iostream>
+#include <time.h>
 
 namespace caffe2 {
 
